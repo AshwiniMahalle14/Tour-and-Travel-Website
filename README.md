@@ -17,10 +17,6 @@ It features a modern UI for showcasing destinations, services, packages, and cli
 ---
 
 # Getting Started
-
-1. Clone this repository or download the ZIP.
-   ```bash
-   git clone https://github.com/your-username/traveldream.git
 project/
 │── index.html # Main HTML file
 │── style.css # Custom CSS styles
